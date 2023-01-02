@@ -1,5 +1,10 @@
 # Generalized Max-Median Filtering
+## Group member
+Bùi Khánh Huyền - 1902137
 
+Dương Đức Duy - 20020287 
+
+Vũ Thị Thi - 20020313 
 ## Inspriration
 Our work was to implement and enhance the performance of the paper https://ieeexplore.ieee.org/document/647798.
 
@@ -9,7 +14,7 @@ The basic idea of **max/median** filtering is to combine the output of some basi
 <img style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;"
+           width: 40%;"
      src="https://github.com/huyenbui117/Generalized-Max-Median-Filtering/blob/main/images/BasicIdea.png" 
      alt="Basic idea"> 
 - $x(.  , . )$ is a two-dimensional sequence
