@@ -11,6 +11,7 @@ Our work was to implement and enhance the performance of the paper https://ieeex
 ## Theoretical basis
 The basic idea of **max/median** filtering is to combine the output of some basic subfilters each of which is good for preserving a feature in a specific direction. The max/median filtering can preserve image details such as bright lines. 
 **Generalized max/median filter** is an extended max/median filter. The essential idea is to define order statistics over the line segments without the common centre point.
+
 <img style="display: block; 
            margin-left: auto;
            margin-right: auto;
